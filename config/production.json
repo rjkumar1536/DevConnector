@@ -1,0 +1,6 @@
+{
+    "mongoURI" : "mongodb+srv://social:2014ucp1536@cluster0-uiuwj.mongodb.net/test?retryWrites=true&w=majority",
+    "secret" : "12345",
+    "githubClientId" :"b06590cf2dc92c0f7bbc",
+    "githubClientSecret" : "65afd62bfe5ce45e33b3116d8c41fe730fe94236"
+}
