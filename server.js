@@ -4,7 +4,6 @@ const userRoute = require('./routes/api/users');
 const postsRoute = require('./routes/api/posts');
 const authRoute = require('./routes/api/auth');
 const profileRoute = require('./routes/api/profile');
-
 const path = require('path');
 
 const app = express();
